@@ -32,7 +32,7 @@
 
 
 #header h1 {  
-    position: left;
+    position: static;
     left: 420px;
     top:5px;
     font-size: 3em;
